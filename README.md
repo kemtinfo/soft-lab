@@ -7,3 +7,7 @@
 
 Email: 
 `git config --global user.email 'kemt.info@gmail.com'`
+
+### Переименование ветки
+`git branch -M main`
+
