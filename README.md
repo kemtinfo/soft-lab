@@ -11,3 +11,6 @@ Email:
 ### Переименование ветки
 `git branch -M main`
 
+### Подключение удаленного репозитория
+`git remote add origin https://github.com/kemtinfo/soft-lab.git`
+
