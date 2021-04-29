@@ -5,6 +5,7 @@ SW1:
     password: cisco
     privilege: 15
   mgmt_ip: 192.168.1.254
+  port: 2241
 SW2:
   os: IOS
   user:
@@ -12,3 +13,4 @@ SW2:
     password: cisco
     privilege: 15
   mgmt_ip: 192.168.2.254
+  port: 30022
